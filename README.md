@@ -21,7 +21,7 @@ Hardware needed to interface LSM9DS0 sensor with Arduino
 
 4. <a href="https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-communications-interface/">Arduino Due</a>
 
-5. <a href="https://store.ncd.io/product/lsm9ds0-3d-accelerometer-gyroscope-magnetometer-i2c-mini-module/">LSM9DS0 16Bit 3Axis Accelometer Sensor</a>
+5. <a href="https://store.ncd.io/product/lsm9ds0-3d-accelerometer-gyroscope-magnetometer-i2c-mini-module/">LSM9DS0 3D Accelerometer Gyroscope Magnetometer Sensor</a>
 
 6. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
